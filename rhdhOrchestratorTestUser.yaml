@@ -1,8 +1,8 @@
 apiVersion: backstage.io/v1alpha1
 kind: User
 metadata:
-  name: rhdh-orchestrator-test
+  name: chadcrum
 spec:
   profile:
-    displayName: rhdh-orchestrator-test
+    displayName: chadcrum
   memberOf: ['janus-orchestrator']
